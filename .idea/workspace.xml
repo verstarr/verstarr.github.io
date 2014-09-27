@@ -200,8 +200,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="31" width="1260" height="760" extended-state="0" />
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="7" />
     <editor active="true" />
+=======
+    <frame x="12" y="31" width="1260" height="760" extended-state="0" />
+<<<<<<< HEAD
+    <editor active="true" />
+=======
+    <editor active="false" />
+>>>>>>> 0d3dfc5498de56430e809e486f67fabbc1abab18
+>>>>>>> 669fbbd26aea339af43c9d18b8cf366eec0e6122
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
